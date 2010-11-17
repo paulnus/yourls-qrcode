@@ -9,6 +9,7 @@ Email     : paul@thenusfamily.com
 (c) 2010+ Paul Nus
 
 
+
 Plugin for YOURLS(Your Own URL Shortener) (www.yourls.org)
 w/ PHPQRCODE integration -> Copyright (C) 2010 by Dominik Dzienia 
 
