@@ -1,12 +1,21 @@
-Plugin Name: QR Codes
+﻿Plugin Name: QR Codes
+
 Plugin URI: http://www.paulnus.com/qrcodes_plugin/
+
 Description: This plugin integrates QR codes into YOURLS
+
 Version: 0.1.0
+
 Author: Paul Nus
+
 Author URI: http://paulnus.com
+
 Date      : 05-27-2010
+
 Email     : paul@thenusfamily.com
+
 (c) 2010+ Paul Nus
+
 
 
 
