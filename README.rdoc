@@ -30,7 +30,7 @@ v0.1.0         : Initial Beta Release - 05-27-2010
 Future Enchancements
 1. Integration into admin console
 2. Integration into info page
-    
+
 
 Requirments:
 - YOURLS version 1.5+ (plugin support)
